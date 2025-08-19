@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dinith Priyashan</h1>
-<h3 align="center">I am Undergraduate at SLIIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinithpriyashan&label=Profile%20views&color=0e75b6&style=flat" alt="dinithpriyashan" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dinithpriyashan&label=Profile%20views&color=0e75b6&style=flat" alt="dinithpriyashan" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinithpriyashan" alt="dinithpriyashan" /></a> </p>
 
-- 🔭 I’m currently working on **test**
+---
+
+- 🔭 I am Undergraduate at **SLIIT**
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java**
+- 
 
 - 📫 How to reach me **dinithpriya91@gmail.com**
 
