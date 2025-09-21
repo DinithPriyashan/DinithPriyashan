@@ -20,7 +20,7 @@
 <!-- About -->
 ### 👋 About me
 
-- 🔭 I am Undergraduate at **SLIIT**
+- 🔭 I am an Undergraduate at **SLIIT**
 - 🌱 I’m currently learning **Java**
 - 🎨 I craft **clean, animated interfaces** with a focus on accessibility and performance.  
 - 📱 Comfortable in **Android (Kotlin)** and **web stacks**   
