@@ -18,13 +18,30 @@
 
 
 <!-- About -->
-### 👋 About me
+### 👋 Hi, I'm Dinith Priyashan
 
-- 🔭 I am an Undergraduate at **SLIIT**
-- 🌱 I’m currently learning **Java**
-- 🎨 I craft **clean, animated interfaces** with a focus on accessibility and performance.  
-- 📱 Comfortable in **Android (Kotlin)** and **web stacks**   
-- ✨ Always exploring **micro-interactions** and smooth motion.
+> 🎓 IT Undergraduate @ **SLIIT** | Full-Stack & Mobile Dev Enthusiast
+
+---
+
+- 🔭 I am an Undergraduate at **SLIIT** — Faculty of IT, 3rd Year
+- 🎨 I craft **clean, animated interfaces** with a focus on accessibility and performance
+- 📱 Comfortable in **Android (Kotlin)** and **web stacks**
+- ✨ Always exploring **micro-interactions** and smooth motion design
+
+---
+
+### ⚡ Tech Stack
+
+`Java` `React` `Node.js` `MongoDB` `Kotlin` `HTML/CSS` `JavaScript` `PHP` `Git` `Figma`
+
+---
+
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-DinithPriyashan-181717?style=flat&logo=github)](https://github.com/DinithPriyashan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinith%20Priyashan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dinith-priyashan-30431b386/)
+
 
 <!-- Tech stack (devicons) -->
 
