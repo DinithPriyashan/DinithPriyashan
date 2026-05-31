@@ -26,7 +26,6 @@
 
 - 🔭 I am an Undergraduate at **SLIIT** — Faculty of IT, 3rd Year
 - 🎨 I craft **clean, animated interfaces** with a focus on accessibility and performance
-- 📱 Comfortable in **Android (Kotlin)** and **web stacks**
 - ✨ Always exploring **micro-interactions** and smooth motion design
 
 ---
