@@ -24,7 +24,7 @@
 
 ---
 
-- 🔭 I am an Undergraduate at **SLIIT** — Faculty of IT, 3rd Year
+- 🔭 I am an Undergraduate at **SLIIT** — Faculty of Computing, 3rd Year
 - 🎨 I craft **clean, animated interfaces** with a focus on accessibility and performance
 - ✨ Always exploring **micro-interactions** and smooth motion design
 
