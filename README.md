@@ -48,7 +48,7 @@
 <!-- Stats row -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DinithPriyashan&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats"/>
+  
   <img src="https://streak-stats.demolab.com?user=DinithPriyashan&theme=radical&hide_border=true" height="165" alt="streak"/>
 </p>
 
