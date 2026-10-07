@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-22c55e?style=flat-square" alt="open to internships"/>
   <img src="https://img.shields.io/badge/SLIIT-3rd%20Year-7c3aed?style=flat-square" alt="sliit"/>
   <img src="https://komarev.com/ghpvc/?username=DinithPriyashan&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
 </p>
@@ -27,7 +26,6 @@
 
 > 🎓 Third-year IT undergraduate @ **SLIIT** (Faculty of Computing) — building full-stack and mobile apps end to end.
 
-- 🔭 Currently looking for a **Software Engineering Internship**
 - 🛠️ I build complete projects on my own: **backend → frontend → UI design**
 - 🎨 I care about **clean, animated interfaces**, accessibility and performance
 - ✨ Always exploring **micro-interactions** and smooth motion design
@@ -57,19 +55,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it is | Tech |
-|---|---|---|
-| 💼 **Job Portal** | Job platform with secure auth and role-based access (JWT + RBAC) | `FastAPI` `React` |
-| 🧾 **Smart Inventory & Billing System** | Inventory management and billing for small businesses | `.NET Core 8` `Angular 17` `MySQL` |
-| 🌐 **Personal Portfolio** | Animated, responsive portfolio — [dinith-priyashan.vercel.app](https://dinith-priyashan.vercel.app) | `Next.js` `Vercel` |
-| 🏋️ **FitFlow Redesign (HCI)** | UX redesign of a beginner home-workout and fitness app | `Figma` `UI/UX` |
-
-> 📂 More repositories: [github.com/DinithPriyashan?tab=repositories](https://github.com/DinithPriyashan?tab=repositories)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,8 +62,16 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithPriyashan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DinithPriyashan&theme=radical&hide_border=true" height="170" alt="streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DinithPriyashan/DinithPriyashan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DinithPriyashan/DinithPriyashan/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/DinithPriyashan/DinithPriyashan/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
