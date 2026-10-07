@@ -1,84 +1,98 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7c3aed,100:06b6d4&text=Dinith%20Priyashan&fontColor=ffffff&fontAlignY=40&desc=Android%20%7C%20Web%20%7C%20UI%2FUX&descAlignY=65&animation=twinkling" alt="Dinith Priyashan banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7c3aed,100:06b6d4&text=Dinith%20Priyashan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%7C%20Android%20%7C%20UI%2FUX&descSize=20&descAlignY=60&animation=fadeIn" alt="Dinith Priyashan banner" />
 </p>
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dinith+Priyashan;Front-end+Developer+%E2%80%A2+UI%2FUX+Tinkerer;Android+%26+Kotlin+Enthusiast;I+build+smooth%2C+delightful+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Dinith+Priyashan;Full-Stack+Developer+%E2%80%A2+UI%2FUX+Tinkerer;Android+%26+Kotlin+Enthusiast;I+build+smooth%2C+delightful+products" alt="Typing SVG" />
 </p>
 
-<!-- Quick badges -->
+<!-- Badges -->
 <p align="center">
-  
-  <img src="https://img.shields.io/badge/Focus-Android%20%7C%20Web-7c3aed?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/Loves-UI%2FUX-06b6d4?style=for-the-badge" alt="loves"/>
+  <a href="https://dinith-priyashan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dinith--priyashan.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
+  <a href="https://www.linkedin.com/in/dinith-priyashan-30431b386/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:dinithpriya91@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dinithpriyashan&label=Profile%20views&color=0e75b6&style=flat" alt="dinithpriyashan" /> </p>
 
-
-<!-- About -->
-### 👋 Hi, I'm Dinith Priyashan
-
-> 🎓 IT Undergraduate @ **SLIIT** | Full-Stack & Mobile Dev Enthusiast
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-22c55e?style=flat-square" alt="open to internships"/>
+  <img src="https://img.shields.io/badge/SLIIT-3rd%20Year-7c3aed?style=flat-square" alt="sliit"/>
+  <img src="https://komarev.com/ghpvc/?username=DinithPriyashan&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
+</p>
 
 ---
 
-- 🔭 I am an Undergraduate at **SLIIT** — Faculty of Computing, 3rd Year
-- 🎨 I craft **clean, animated interfaces** with a focus on accessibility and performance
+## 👋 About Me
+
+> 🎓 Third-year IT undergraduate @ **SLIIT** (Faculty of Computing) — building full-stack and mobile apps end to end.
+
+- 🔭 Currently looking for a **Software Engineering Internship**
+- 🛠️ I build complete projects on my own: **backend → frontend → UI design**
+- 🎨 I care about **clean, animated interfaces**, accessibility and performance
 - ✨ Always exploring **micro-interactions** and smooth motion design
+- 📍 Based in Sri Lanka 🇱🇰
 
 ---
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 
-`Java` `React` `Node.js` `MongoDB` `Kotlin` `HTML/CSS` `JavaScript` `PHP` `Git` `Figma`
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,php,cs,c,cpp,html,css&perline=10" alt="languages" />
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,spring,fastapi,dotnet&perline=10" alt="frameworks" />
+</p>
+
+**Databases, Tools & Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,androidstudio,figma,aws,vercel&perline=10" alt="tools" />
+</p>
 
 ---
 
+## 🚀 Featured Projects
 
+| Project | What it is | Tech |
+|---|---|---|
+| 💼 **Job Portal** | Job platform with secure auth and role-based access (JWT + RBAC) | `FastAPI` `React` |
+| 🧾 **Smart Inventory & Billing System** | Inventory management and billing for small businesses | `.NET Core 8` `Angular 17` `MySQL` |
+| 🌐 **Personal Portfolio** | Animated, responsive portfolio — [dinith-priyashan.vercel.app](https://dinith-priyashan.vercel.app) | `Next.js` `Vercel` |
+| 🏋️ **FitFlow Redesign (HCI)** | UX redesign of a beginner home-workout and fitness app | `Figma` `UI/UX` |
 
-[![GitHub](https://img.shields.io/badge/GitHub-DinithPriyashan-181717?style=flat&logo=github)](https://github.com/DinithPriyashan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinith%20Priyashan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dinith-priyashan-30431b386/)
+> 📂 More repositories: [github.com/DinithPriyashan?tab=repositories](https://github.com/DinithPriyashan?tab=repositories)
 
+---
 
-<!-- Tech stack (devicons) -->
-
-
-<!-- Stats row -->
-### 📊 GitHub Stats
-<p align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=DinithPriyashan&theme=radical&hide_border=true" height="165" alt="streak"/>
-</p>
-
-<!-- Top langs -->
-
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DinithPriyashan&theme=onestar&no-bg=true&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
-<!-- Animated snake (generated by workflow below) -->
-
-
-
-
-
-- 📫 How to reach me **dinithpriya91@gmail.com**
-
-
-<p align="left">
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06b6d4,100:7c3aed&section=footer" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DinithPriyashan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithPriyashan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DinithPriyashan&theme=radical&hide_border=true" height="170" alt="streak"/>
+</p>
 
+---
 
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/DinithPriyashan"><img src="https://img.shields.io/badge/GitHub-DinithPriyashan-181717?style=for-the-badge&logo=github" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/dinith-priyashan-30431b386/"><img src="https://img.shields.io/badge/LinkedIn-Dinith%20Priyashan-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+  <a href="mailto:dinithpriya91@gmail.com"><img src="https://img.shields.io/badge/Gmail-dinithpriya91@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+</p>
+
+<p align="center"><i>⭐ If you like what you see, drop a star on a repo — it means a lot!</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06b6d4,100:7c3aed&section=footer" alt="footer" />
+</p>
